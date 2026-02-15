@@ -7,6 +7,7 @@
      and immersive <b>Game Experiences</b>. I thrive on turning complex logic into interactive reality, 
     from the backend database to the frontend gameplay loop.
   </p>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerby-cruz-2a0425312/)
 </div>
 
 ---
@@ -38,7 +39,4 @@
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kerbyllamosocruz&theme=transparent)]
 
 ---
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerby-cruz-2a0425312/)
 
