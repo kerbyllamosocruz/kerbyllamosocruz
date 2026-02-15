@@ -1,5 +1,13 @@
-# 👋 Hello, I'm Kerby!
-### 🎓 IT Student | 💻 Full Stack Developer
+<div align="center">
+  <h1>👋 Hello, I'm Kerby!</h1>
+  <h3>🎓 IT Student at PLV | 💻 Full Stack Developer</h3>
+
+  <p>
+    An aspiring developer from Valenzuela City, dedicated to building seamless <b>Web Applications</b> 
+     and immersive <b>Game Experiences</b>. I thrive on turning complex logic into interactive reality, 
+    from the backend database to the frontend gameplay loop.
+  </p>
+</div>
 
 ---
 
