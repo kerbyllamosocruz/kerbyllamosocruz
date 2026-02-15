@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Kerby!
-
-I'm a developer blending **Game Development** and **Web Technologies** to create engaging digital experiences.
+### 🎓 IT Student | 💻 Full Stack Developer
 
 ---
 
