@@ -44,6 +44,6 @@
 ---
 
 ### 📊 GitHub Activity
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kerbyllamosocruz&theme=transparent)]
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kerbyllamosocruz&theme=transparent)
 
 ---
