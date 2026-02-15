@@ -27,9 +27,7 @@ I'm a developer blending **Game Development** and **Web Technologies** to create
 ---
 
 ### 📊 GitHub Activity
-![Kerby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerbyllamosocruz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerbyllamosocruz&layout=compact&theme=radical)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kerbyllamosocruz)](https://github.com/FajarKim/github-readme-profile)
 
 ---
 
