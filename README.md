@@ -4,11 +4,16 @@
 
   <p>
     An aspiring developer from Valenzuela City, dedicated to building seamless <b>Web Applications</b> 
-     and immersive <b>Game Experiences</b>. I thrive on turning complex logic into interactive reality, 
+    and immersive <b>Game Experiences</b>. I thrive on turning complex logic into interactive reality, 
     from the backend database to the frontend gameplay loop.
   </p>
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerby-cruz-2a0425312/)
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kerby-cruz-2a0425312/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
