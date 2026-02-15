@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hello, I'm Kerby!</h1>
-  <h3>🎓 IT Student at PLV | 💻 Full Stack Developer</h3>
+  <h1> Hello, I'm Kerby!</h1>
+  <h3> 3rd Year IT Student at PLV | Full Stack Developer</h3>
 
   <p>
     An aspiring developer from Valenzuela City, dedicated to building seamless <b>Web Applications</b> 
