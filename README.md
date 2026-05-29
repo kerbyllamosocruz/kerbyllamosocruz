@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kerby-cruz-2a0425312/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/kerbyllamosocruz/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kerbyllamosocruz@gmail.com">
